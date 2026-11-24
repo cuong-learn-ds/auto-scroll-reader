@@ -17,7 +17,7 @@ Extension Chrome (Manifest V3) giúp **tự động cuộn trang khi đọc truy
 
 1. Tải hoặc clone repo này:
    ```bash
-   git clone <url-repo-cua-ban>
+   git clone https://github.com/cuong-learn-ds/auto-scroll-reader.git
    ```
 2. Mở `chrome://extensions` trong Chrome (hoặc Edge, Brave, Cốc Cốc).
 3. Bật **Developer mode** (Chế độ dành cho nhà phát triển) ở góc trên bên phải.
